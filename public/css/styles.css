@@ -1,0 +1,7 @@
+/* Colocar aquí CSS "propio" */
+
+.hr-thicker {
+  border: none;
+  background-color: black;
+  height: 3px;
+}
